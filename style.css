@@ -1,2 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap')
+.ntr-regular {
+    font-family: "NTR", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body {
+    background-color: green;
+}
+
+.nav {
+    height: 4px;
+    background-color: black;
+    margin: 5px 0;
+}
+
+
 
