@@ -4,15 +4,10 @@
     font-style: normal;
   }
 
-body {
-    background-color: green;
+.nav, div{
+  height: 4px;
 }
 
-.nav {
-    height: 4px;
-    background-color: black;
-    margin: 5px 0;
-}
 
 
 
