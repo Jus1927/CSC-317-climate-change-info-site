@@ -4,14 +4,8 @@
     font-style: normal;
   }
 
-body {
-    background-color: green;
-}
-
-.nav {
-    height: 4px;
-    background-color: black;
-    margin: 5px 0;
+.nav, div{
+  height: 4px;
 }
 
 .container {
@@ -21,4 +15,5 @@ body {
 .toRight {
     margin-left: auto;
 }
+
 
