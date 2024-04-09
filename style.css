@@ -14,5 +14,11 @@ body {
     margin: 5px 0;
 }
 
+.container {
+    display: flex;
+}
 
+.toRight {
+    margin-left: auto;
+}
 
