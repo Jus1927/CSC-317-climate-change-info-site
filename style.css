@@ -14,6 +14,12 @@
   height: 4px;
 }
 
+.container {
+    display: flex;
+}
 
+.toRight {
+    margin-left: auto;
+}
 
 
