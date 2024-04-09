@@ -28,4 +28,9 @@ p {
     margin-left: auto;
 }
 
+button:hover {
+    color: black;
+    background-color: gold;
+}
+
 
