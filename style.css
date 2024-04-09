@@ -16,6 +16,10 @@
   margin: 5px 0;
 }
 
+p {
+    color: lightblue;
+}
+
 .container {
     display: flex;
 }
