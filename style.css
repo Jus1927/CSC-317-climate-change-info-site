@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
 
+.container {
+  display: flex;
+}
+
+.fixed { 
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  z-index: 100; 
+  background-color: darkgreen;
+
+}
+
 header {
   position: relative;
   padding-left: 4rem;
@@ -56,10 +70,6 @@ body{
   background-color: green;
 }
 
-.sticky {
-  position: sticky;
-}
-
 .one {
   width: 40px;
   float: right;
@@ -85,10 +95,6 @@ h2 {
 
 p {
     color: lightblue;
-}
-
-.container {
-    display: flex;
 }
 
 .toRight {
