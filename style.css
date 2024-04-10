@@ -1,11 +1,8 @@
-.ntr-regular {
-  font-family: "NTR", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
 
 body{
   background-color: green;
+  font-family: "NTR", sans-serif; 
 }
 
 .wrapper {
@@ -51,6 +48,8 @@ header {
   position: relative;
   padding-left: 4rem;
   color: white;
+  font-size: large;
+  font-family: "NTR", sans-serif;
 }
 
 h2 {
