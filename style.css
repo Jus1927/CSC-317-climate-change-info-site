@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
 
+header {
+  position: relative;
+  padding-left: 4rem;
+  color: white;
+  font-size: large;
+}
+
+.content{
+  white-space: nowrap;
+}
+
 body{
   background-color: green;
   font-family: "NTR", sans-serif; 
@@ -20,7 +31,7 @@ body{
 .nav {
   width: 40px;
   display: block;
-  margin-left: 32em;
+  margin-left: 22em;
   margin-bottom: 1em;
   position: sticky;
   float: right;
@@ -43,14 +54,6 @@ body{
 
 .nav:hover div {
   width: 40px;
-}
-
-header {
-  position: relative;
-  padding-left: 4rem;
-  color: white;
-  font-size: large;
-  font-family: "NTR", sans-serif;
 }
 
 h2 {
