@@ -123,6 +123,11 @@ body{
 
 h2 {
   color: white;
+  font-size: 2rem; 
+  margin-left: 40px;
+  margin-bottom: 0px;
+  text-decoration: underline;
+  text-underline-offset: 3px; 
 }
 
 p {
