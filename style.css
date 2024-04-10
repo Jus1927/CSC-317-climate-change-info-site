@@ -31,9 +31,13 @@ body{
 .nav {
   width: 40px;
   display: block;
-  margin-left: 10em;
   margin-bottom: 1em;
   float: right;
+}
+
+.spacer {
+  margin-right:auto;
+  margin-left: auto;
 }
 
 .sticky {
