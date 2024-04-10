@@ -4,8 +4,11 @@ const path = require('path');
 const app = express();
 const PORT = 3000;
 
-// Serve static files from the 'public' directory
+// Serve static files from the 'Resources' directory
 app.use(express.static(path.join(__dirname, 'Resources')));
+
+// Serve static files from the main project directory
+app.use(express.static(__dirname));
 
 // Serve the index.html file at the root endpoint
 app.get('/', (req, res) => {
