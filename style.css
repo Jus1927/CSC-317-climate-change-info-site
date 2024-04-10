@@ -21,6 +21,7 @@
 
 .backgroundImage { 
   background: url(Resources/background.jpg);
+  background-size:cover;
 }
 
 header {
