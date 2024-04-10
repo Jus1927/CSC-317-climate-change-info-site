@@ -17,11 +17,25 @@
 .subtopicI {
   /*the height of the header*/
   margin-top: 125px; 
+
+  height: 400px; 
 }
 
 .backgroundImage { 
   background: url(Resources/background.jpg);
-  background-size:cover;
+  background-size: cover; 
+  background-position: center center;
+}
+
+.backgroundImage::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 100, 0, 0.4);
 }
 
 header {
