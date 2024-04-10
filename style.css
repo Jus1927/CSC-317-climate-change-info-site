@@ -34,7 +34,7 @@
   left: 0; 
   width: 100%; 
   background-color: darkgreen;
-
+  z-index: 1000;
 }
 
 .subtopicI {
