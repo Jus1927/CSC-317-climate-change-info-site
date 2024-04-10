@@ -14,6 +14,10 @@
 
 }
 
+.subtopicI {
+  margin-top: 125px; 
+}
+
 header {
   position: relative;
   padding-left: 4rem;
@@ -24,6 +28,8 @@ header {
 .content{
   white-space: nowrap;
 }
+
+
 
 body{
   background-color: darkgreen;
