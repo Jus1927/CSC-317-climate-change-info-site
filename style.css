@@ -31,10 +31,13 @@ body{
 .nav {
   width: 40px;
   display: block;
-  margin-left: 22em;
+  margin-left: 10em;
   margin-bottom: 1em;
-  position: sticky;
   float: right;
+}
+
+.sticky {
+  position: sticky;
 }
 
 .one {
