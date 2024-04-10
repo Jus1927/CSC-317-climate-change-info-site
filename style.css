@@ -72,8 +72,8 @@ body{
 }
 
 .login:hover {
-  color: white;
-  background-color: green;
+  color: darkgreen;
+  background-color: lightgrey;
 }
 
 .one {
