@@ -4,6 +4,10 @@
   font-style: normal;
 }
 
+body{
+  background-color: green;
+}
+
 .wrapper {
   width: 100%;
   height: 100vh;
@@ -44,6 +48,10 @@ h1 {
   position: relative;
   color: white;
   text-align: center;
+}
+
+h2 {
+  color: white;
 }
 
 p {
