@@ -19,6 +19,10 @@
   margin-top: 125px; 
 }
 
+.backgroundImage { 
+  background: url(/Resources/backround.jpg);
+}
+
 header {
   position: relative;
   padding-left: 4rem;
