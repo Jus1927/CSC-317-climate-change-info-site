@@ -34,11 +34,40 @@
 
 .fixed { 
   position: fixed; 
+}
+
+.toFront {
+  z-index: 1000;
+}
+
+.stickyNav {
   top: 0; 
   left: 0; 
   width: 100%; 
   background-color: darkgreen;
-  z-index: 1000;
+}
+
+.social {
+  background-color: purple;
+  color: white;
+  margin-top: 2px;
+  margin-bottom: 2px;
+
+
+  /*
+  margin-right:auto;
+  margin-left: auto;
+  margin-top:auto;
+  margin-bottom: auto;
+  color: darkgreen;
+  background-color: white;
+  height: 50px;
+  border-radius: 15%; 
+  font-size: 1.5em;
+  padding-top: 5px;
+  padding-bottom: 5px; 
+  padding-left: 10px; 
+  padding-right: 10px;*/
 }
 
 .subtopicI {
