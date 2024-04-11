@@ -40,11 +40,12 @@
   z-index: 1000;
 }
 
-.stickyNav {
+.footHeader {
   top: 0; 
   left: 0; 
   width: 100%; 
   background-color: darkgreen;
+  color: white; 
 }
 
 .social {
