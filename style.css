@@ -28,6 +28,10 @@
   margin-right: 15%;
 }
 
+.withLeftPad {
+  margin-left: 10%;
+}
+
 .backgroundImage > * {
   z-index: 100;
 }
@@ -180,7 +184,7 @@ h2 {
 }
 
 p {
-    color: lightblue;
+    color: darkgreen;
 }
 
 .toRight {
