@@ -32,6 +32,10 @@
   margin-left: 10%;
 }
 
+.withSmallLeftPad {
+  margin-left: 5%;
+}
+
 .backgroundImage > * {
   z-index: 100;
 }
