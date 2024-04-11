@@ -11,6 +11,13 @@
   z-index: 1;
 }
 
+.tree {
+  height: 100px; 
+  width: 100px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
 .backgroundImage > * {
   z-index: 100;
 }
