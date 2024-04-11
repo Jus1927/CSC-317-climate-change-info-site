@@ -18,6 +18,16 @@
   margin-top: 50px;
 }
 
+.source {
+  text-decoration: underline;
+  color: blue; 
+  padding: 0;
+}
+
+.withRightPad { 
+  margin-right: 20px;
+}
+
 .backgroundImage > * {
   z-index: 100;
 }
