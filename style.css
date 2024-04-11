@@ -28,6 +28,10 @@
   display: flex;
 }
 
+.vertical {
+  flex-direction: column;
+}
+
 .fixed { 
   position: fixed; 
   top: 0; 
