@@ -174,4 +174,29 @@ button:hover {
     background-color: gold;
 }
 
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.form-box {
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px #c7c4c4, -10px -10px 15px #fff;
+}
+
+.form-box input {
+  font-size: 18px;
+  color: black;
+  padding: 15px 10px;
+  border: none;
+  outline: none;
+  background: #ececec;
+}
+
+.form-box button {
+  padding: 15px 20px;
+  font-size: 20px;
+  border: none;
+}
