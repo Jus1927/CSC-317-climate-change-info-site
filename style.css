@@ -36,6 +36,11 @@
   margin-left: 5%;
 }
 
+.withSmallTopPad {
+  margin-top: 40px;
+}
+
+
 .backgroundImage > * {
   z-index: 100;
 }
@@ -75,6 +80,15 @@
 
 .footHeaderText {
   color: white;
+}
+
+.underline {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.underline:hover {
+  color: lightsteelblue;
 }
 
 .social {
