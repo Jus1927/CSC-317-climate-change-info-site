@@ -34,3 +34,5 @@ As the Contrast Ratio was well above $4.5$, at 7.43 the website is easily readab
 Additionally, the opacity of the shading in the background information was set to $\alpha = 0.8$, 
 so that the contrast will be at least $4.73$. 
 
+---
+
