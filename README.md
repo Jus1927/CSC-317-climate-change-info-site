@@ -29,7 +29,9 @@ Some interesting features of the site are hovering over the hamburger menu butto
 The color contrast was checked using: 
 https://webaim.org/resources/contrastchecker/
 
-As the Contrast Ratio was well above $4.5$, at $10$ between the lightblue background and darkblue text. This will make the website easily readable for the majority of users.
+As the Contrast Ratio was well above $4.5$, at $7.43$ the website is easily readable for majority of users. 
+
+Additionally, the opacity of the shading in the background information was set to $\alpha = 0.8$, 
+so that the contrast will be at least $4.73$. 
 
 ---
-
